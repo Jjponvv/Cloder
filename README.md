@@ -9,6 +9,8 @@
 ## How will this program help you?
  * This can help you sort through all the clutter in your folder
  * You will keep all your nerves and calm)
+## How to use this program?  
+Just enter the path to the folder in the search bar and click the "sort" button.
 
 ## **Enjoy using!**  
  [**Download here**][Download]
