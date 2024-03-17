@@ -13,4 +13,4 @@
 ## **Enjoy using!**  
  [**Download here**][Download]
 
- [download]: https://github.com/Jjponvv/Cloder/archive/refs/heads/main.zip
+ [download]: Exe
