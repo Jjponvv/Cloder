@@ -1,5 +1,5 @@
 # Cloder  
- ![logo](https://raw.githubusercontent.com/Jjponvv/Cloder/main/Exe/logo.ico)
+ ![logo](https://raw.githubusercontent.com/Jjponvv/Cloder/main/logo.ico)
 
 ## Cloder is a handy program for Windows Explorer.  
  That sorts all the files in the problem folder by  
