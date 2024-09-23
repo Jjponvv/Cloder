@@ -16,4 +16,4 @@ Just enter the path to the folder in the search bar and click the "sort" button.
  [**Download here**][Download]
 
  [download]: https://github.com/Jjponvv/Cloder/archive/refs/heads/main.zip
- just open a cloder.exe
+ just open a cloder installer
